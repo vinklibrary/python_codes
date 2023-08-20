@@ -2,17 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b55c6f6-1704-4d59-9cab-8b7fbb8ccdaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/niuke/aaa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/niuke/sgd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/niuke/俄罗斯方块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/niuke/安置路灯.input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/niuke/安置路灯.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/niuke/理解sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/niuke/表达式求值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/niuke/被3整除.input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/niuke/迷路的牛牛.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/ListAndArray/Solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/ListAndArray/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/LeetCode.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Word2Vec-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/机器学习评价指标-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/.ipynb_checkpoints/LeetCode-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/.ipynb_checkpoints/SwardOffer-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/SwardOffer.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/aaa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/sgd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/俄罗斯方块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/安置路灯.input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/安置路灯.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/理解sql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/表达式求值.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/被3整除.input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/被3整除.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/niuke/迷路的牛牛.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/查找.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PySpark练习代码/.ipynb_checkpoints/Spark Demo-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PySpark练习代码/Pandas dataframe操作Demos.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PySpark练习代码/Spark Demo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word2Vec.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/.ipynb_checkpoints/Python 时间日期处理-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/.ipynb_checkpoints/Python多线程操作数组-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/.ipynb_checkpoints/python codes001-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/.ipynb_checkpoints/价格歧视计算代码-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/.ipynb_checkpoints/基金数据爬虫-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/.ipynb_checkpoints/文本分析-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/.ipynb_checkpoints/正则表达式-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/Python 时间日期处理.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/Python多线程操作数组.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/generated_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/python codes001.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/价格歧视计算代码.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/基金数据爬虫.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/文本分析.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他代码/正则表达式.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构算法/.ipynb_checkpoints/DynamicProgramming-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构算法/.ipynb_checkpoints/SortAlgorithm-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构算法/DynamicProgramming.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构算法/SortAlgorithm.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习代码/.ipynb_checkpoints/Deep Architectures with code snippets in Pytorch-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习代码/.ipynb_checkpoints/机器学习代码-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习代码/.ipynb_checkpoints/特征工程代码-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习代码/Deep Architectures with code snippets in Pytorch.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习代码/NLP/.ipynb_checkpoints/word2vec-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习代码/NLP/word2vec.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习代码/时间序列处理代码.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习代码/机器学习代码.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习代码/特征工程代码.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习评价指标/机器学习评价指标.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/神经网络和深度学习练习题/.ipynb_checkpoints/numpy-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/神经网络和深度学习练习题/.ipynb_checkpoints/numpy_ tutorial-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/神经网络和深度学习练习题/numpy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/神经网络和深度学习练习题/numpy_ tutorial.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,97 +70,46 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="511770419">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/niuke/被3整除.input">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="46">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/niuke/安置路灯.py">
+        <entry file="file://$PROJECT_DIR$/README.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/niuke/迷路的牛牛.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/niuke/俄罗斯方块.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/niuke/表达式求值.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/niuke/理解sql.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/niuke/aaa.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/niuke/input">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/LeetCode/Solution.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/niuke/sgd.py">
+        <entry file="file://$PROJECT_DIR$/LeetCode/ListAndArray/Solutions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-              <folding>
-                <element signature="e#176#186#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/niuke/安置路灯.input">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="92">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -141,10 +140,19 @@
         <option value="$PROJECT_DIR$/LeetCode/niuke/aaa.py" />
         <option value="$PROJECT_DIR$/LeetCode/niuke/input" />
         <option value="$PROJECT_DIR$/LeetCode/niuke/sgd.py" />
+        <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/Solution.py" />
+        <option value="$PROJECT_DIR$/LeetCode/ListAndArray/Solutions.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="64" />
     <option name="y" value="10" />
     <option name="width" value="1400" />
@@ -171,7 +179,11 @@
               <item name="python_codes" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_codes" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+              <item name="ListAndArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -183,9 +195,10 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/项目分析数据/曼丁推荐" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -219,9 +232,10 @@
     <option name="totallyTimeSpent" value="11791000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="10" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35895523" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -233,8 +247,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.32946146" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -247,10 +261,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/LeetCode.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/LeetCode.ipynb" />
     <entry file="file://$PROJECT_DIR$/LeetCode/niuke/被3整除.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -267,67 +282,113 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/niuke/安置路灯.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="552">
           <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/niuke/迷路的牛牛.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
+        <state relative-caret-position="713">
           <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/niuke/俄罗斯方块.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
+        <state relative-caret-position="460">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/niuke/表达式求值.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
+        <state relative-caret-position="575">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/niuke/理解sql.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="552">
           <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/niuke/aaa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
+        <state relative-caret-position="874">
           <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/niuke/input">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="483">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/niuke/安置路灯.input">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="92">
           <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他代码/Python 时间日期处理.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/niuke/sgd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="483">
           <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
             <element signature="e#176#186#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Word2Vec.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/查找.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/ListAndArray/Solutions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
